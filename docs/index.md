@@ -20,6 +20,5 @@ features:
     icon:
       src: /images/person.jpg
       width: 100%
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
