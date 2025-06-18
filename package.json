@@ -1,11 +1,14 @@
 {
   "devDependencies": {
-    "vitepress": "^1.2.3",
-    "vue": "^3.4.27"
+    "vitepress": "^1.6.3",
+    "vue": "^3.5.16"
   },
   "scripts": {
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs"
+  },
+  "dependencies": {
+    "@peterek/vite-plugin-favicons": "^2.1.0"
   }
 }
