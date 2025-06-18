@@ -23,7 +23,7 @@ export default defineConfig({
   },
   vite: {
     plugins: [
-      favicons('docs/assets/logo.png')
+      favicons('docs/public/images/logo.png')
     ]
   }
 })

@@ -6,7 +6,7 @@ hero:
   name: Sparkly Rocketship
   # text: "Blasting off"
   tagline: Bringing joy with some out-of-this-world creativity.
-  image: assets/logo.png
+  image: /images/logo.png
 features:
   - title: Tiny Creations
     icon:
